@@ -1,0 +1,66 @@
+
+--- Comments on Clustering Results ---
+1. Number of Groups (K):
+   - Based on the Elbow Method and Silhouette Score analysis, K=6 clusters were chosen.
+   - The Elbow plot likely showed diminishing returns in WCSS reduction around K=6.
+   - The Silhouette Score plot might have indicated a peak or high value at K=6, suggesting reasonable cluster separation.
+
+2. PCA and Clustering Plot:
+   - PCA was used to reduce the features to 2 dimensions for visualization.
+   - The 2D scatter plot shows the distribution of players based on these two principal components, colored by their assigned K-means cluster.
+   - Interpretation of the plot:
+     - Observe the separation between clusters. Are they distinct or overlapping?
+     - The spread and density of points within each cluster provide insight into the similarity of players grouped together based on the selected statistics.
+
+Cluster 0:
+  Total Players: 143
+  Top Positions:
+    DF: 72
+    MF: 39
+    GK: 12
+    MF,FW: 6
+    MF,DF: 4
+
+Cluster 1:
+  Total Players: 24
+  Top Positions:
+    FW: 12
+    FW,MF: 7
+    MF,FW: 3
+    MF: 1
+    FW,DF: 1
+
+Cluster 2:
+  Total Players: 65
+  Top Positions:
+    FW: 23
+    FW,MF: 16
+    MF,FW: 11
+    MF: 11
+    DF: 4
+
+Cluster 3:
+  Total Players: 79
+  Top Positions:
+    FW,MF: 21
+    FW: 15
+    MF,FW: 12
+    MF: 11
+    DF: 10
+
+Cluster 4:
+  Total Players: 165
+  Top Positions:
+    DF: 74
+    GK: 27
+    MF: 26
+    DF,MF: 12
+    FW: 8
+
+Cluster 5:
+  Total Players: 13
+  Top Positions:
+    FW: 9
+    MF: 2
+    FW,MF: 1
+    MF,FW: 1
