@@ -1,0 +1,84 @@
+Statistic: Gls
+--------------
+Top 3 Highest:
+  1. Mohamed Salah (27)
+  2. Alexander Isak (21)
+  3. Erling Haaland (21)
+
+Top 3 Lowest:
+  1. Aaron Cresswell (0)
+  2. Aaron Ramsdale (0)
+  3. Abdukodir Khusanov (0)
+
+==============================
+
+Statistic: Ast
+--------------
+Top 3 Highest:
+  1. Mohamed Salah (18)
+  2. Jacob Murphy (11)
+  3. Antonee Robinson (10)
+
+Top 3 Lowest:
+  1. Aaron Cresswell (0)
+  2. Aaron Ramsdale (0)
+  3. Abdukodir Khusanov (0)
+
+==============================
+
+Statistic: xG
+-------------
+Top 3 Highest:
+  1. Mohamed Salah (23.7)
+  2. Erling Haaland (20.8)
+  3. Alexander Isak (17.5)
+
+Top 3 Lowest:
+  1. Aaron Ramsdale (0.0)
+  2. Abdukodir Khusanov (0.0)
+  3. Adam Webster (0.0)
+
+==============================
+
+Statistic: CrdY
+---------------
+Top 3 Highest:
+  1. Saša Lukić (12)
+  2. Will Hughes (11)
+  3. Flynn Downes (10)
+
+Top 3 Lowest:
+  1. Abdul Fatawu Issahaku (0)
+  2. Adam Webster (0)
+  3. Albert Grønbaek (0)
+
+==============================
+
+Statistic: CrdR
+---------------
+Top 3 Highest:
+  1. Bruno Fernandes (2)
+  2. Jack Stephens (2)
+  3. Myles Lewis-Skelly (2)
+
+Top 3 Lowest:
+  1. Aaron Cresswell (0)
+  2. Aaron Ramsdale (0)
+  3. Aaron Wan-Bissaka (0)
+
+==============================
+
+Statistic: PrgP
+---------------
+Top 3 Highest:
+  1. Bruno Fernandes (264)
+  2. Joško Gvardiol (240)
+  3. Martin Ødegaard (231)
+
+Top 3 Lowest:
+  1. Aaron Ramsdale (0)
+  2. Alex McCarthy (0)
+  3. Alisson (0)
+
+==============================
+
