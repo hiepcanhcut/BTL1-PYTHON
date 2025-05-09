@@ -5,13 +5,21 @@
 ## 📑 Mục lục
 
 📁 Report/
+
 📄 Báo-cáo.pdf # Báo cáo tổng hợp kết quả bài tập lớn
+
 📁 SourceCode/
+
 📁 Bai1_Res/ # Kết quả bài 1: Thu thập dữ liệu
+
 📁 Bai2_Res/ # Kết quả bài 2: Thống kê mô tả, top cầu thủ và biểu đồ
+
 📁 Bai3_Res/ # Kết quả bài 3: Phân tích chỉ số số học hợp lệ
+
 📁 Bai4_Res/ # Kết quả bài 4: Dự đoán giá trị cầu thủ bằng Machine Learning
+
 📁 FullCode/ # Code tổng hợp chạy toàn bộ các bài
+
 📄 README.md # File mô tả dự án
 
 ## 📝 MÔ TẢ DỰ ÁN
